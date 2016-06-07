@@ -1,0 +1,10 @@
+---
+en:
+  spree:
+    master: master
+    prices: Prices
+    show_currency_selector: Show Currency Selector
+    supported_currencies: Supported Currencies
+    allow_currency_change: Allow Currency Change
+    notice:
+      prices_saved: Prices successfully saved
